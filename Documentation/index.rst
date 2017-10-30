@@ -21,7 +21,7 @@ function. To use SMTP for sending, follow the following example:
 
 .. code-block:: yaml
 
-  TYPO3:
+  Neos:
     SwiftMailer:
       transport:
         type: 'Swift_SmtpTransport'
